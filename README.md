@@ -11,9 +11,7 @@ Such a control strategy leverages the UT to propagate not only the mean but also
 
 ## ROS Packages:
 
-We will upload the complete project as soon as we finish polishing and upgrading the base code. Be ready :-) 
-
-In the meantime, please refer to our baseline repository, namely [MPPI](https://github.com/IhabMohamed/log-MPPI_ros).
+We will upload the complete project as soon as we finish polishing and upgrading the base code. In the meantime, please refer to our repository, namely [MPPI](https://github.com/IhabMohamed/log-MPPI_ros), which serves as our baseline. Please follow the installation instructions there if you haven't already done so :wink:
 
 ### Primary code maintainer:
 Ihab S. Mohamed and Junhong Xu (e-mail: {mohamedi, xu14}@iu.edu)\
