@@ -7,15 +7,16 @@ Such a control strategy leverages the UT to propagate not only the mean but also
 <img src="media/sampling-strategy.gif" width="500" height="300"/>
 
 ## Media:
-**Video**: https://youtu.be/et9t8X1wHKI OR https://youtu.be/yDBaRLvAejk.
+**Video**: https://youtu.be/1xsh4BxIrng
 
 ## ROS Packages:
 
-The entire project will be uploaded soon; however, we are currently referring to our related repositories for the baselines [(namely, MPPI and log-MPPI)](https://github.com/IhabMohamed/log-MPPI_ros) and [GP perception model](https://github.com/mahmoud-a-ali/vsgp_pcl).
+We will upload the complete project as soon as we finish polishing and upgrading the base code. Be ready :-) 
 
+In the meantime, please refer to our baseline repository, namely [(namely, MPPI)](https://github.com/IhabMohamed/log-MPPI_ros).
 
 ### Primary code maintainer:
-Ihab S. Mohamed and Mahmoud Ali (e-mail: {mohamedi, alimaa}@iu.edu)\
+Ihab S. Mohamed and Junhong Xu (e-mail: {mohamedi, xu14}@iu.edu)\
 Vehicle Autonomy and Intelligence Lab ([VAIL](https://vail.sice.indiana.edu/))\
 Indiana University - Bloomington, USA
 
