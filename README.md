@@ -2,12 +2,9 @@
 
 This repository contains the ROS implementation of the U-MPPI control strategy, a novel methodology that enhances the classical sampling-based **Model Predictive Path Integral [(MPPI)](https://arc.aiaa.org/doi/pdf/10.2514/1.G001921)** algorithm by combining the `Unscented Transform (UT)` with `standard optimal control theory` to effectively manage system uncertainties while integrating a more efficient trajectory sampling strategy. 
 
-Such a control strategy leverages the UT to propagate not only the mean but also the covariance of the system dynamics, going beyond the traditional MPPI method. As a result, it introduces
-a novel and more efficient trajectory sampling strategy, significantly enhancing state-space exploration and ultimately reducing the risk of being trapped in local minima. Furthermore, by
-leveraging the uncertainty information provided by UT, we incorporate a risk-sensitive cost function that explicitly accounts for risk or uncertainty throughout the trajectory evaluation process, resulting in a more resilient control system capable of handling uncertain conditions.
+Such a control strategy leverages the UT to propagate not only the mean but also the covariance of the system dynamics (as demonstrated in the following gif), going beyond the traditional MPPI method. As a result, it introduces a novel and more efficient trajectory sampling strategy, significantly enhancing state-space exploration and ultimately reducing the risk of being trapped in local minima. Furthermore, by leveraging the uncertainty information provided by UT, we incorporate a risk-sensitive cost function that explicitly accounts for risk or uncertainty throughout the trajectory evaluation process, resulting in a more resilient control system capable of handling uncertain conditions.
 
-<img src="media/sampling-strategy.gif" width="500" height="250"/>
-
+<img src="media/sampling-strategy.gif" width="500" height="300"/>
 
 ## Media:
 **Video**: https://youtu.be/et9t8X1wHKI OR https://youtu.be/yDBaRLvAejk.
