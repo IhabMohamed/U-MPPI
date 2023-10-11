@@ -6,6 +6,23 @@ Such a control strategy leverages the UT to propagate not only the mean but also
 
 <img src="media/sampling-strategy.gif" width="500" height="300"/>
 
+## Paper:
+
+Mohamed, Ihab S., et al. "Towards Efficient MPPI Trajectory Generation with Unscented Guidance: U-MPPI Control Strategy." arXiv preprint arXiv:2306.12369 (2023).
+
+Paper: https://arxiv.org/abs/2306.12369
+
+Bibtex:
+```
+@article{mohamed2023towards,
+  title={Towards Efficient MPPI Trajectory Generation with Unscented Guidance: U-MPPI Control Strategy},
+  author={Mohamed, Ihab S and Xu, Junhong and Sukhatme, Gaurav and Liu, Lantao},
+  journal={arXiv e-prints},
+  pages={arXiv--2306},
+  year={2023}
+}
+```
+
 ## Media:
 **Video**: https://youtu.be/1xsh4BxIrng
 
