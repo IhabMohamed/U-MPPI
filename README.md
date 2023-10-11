@@ -8,7 +8,7 @@ Such a control strategy leverages the UT to propagate not only the mean but also
 
 ## Paper:
 
-Mohamed, Ihab S., et al. "Towards Efficient MPPI Trajectory Generation with Unscented Guidance: U-MPPI Control Strategy." arXiv preprint arXiv:2306.12369 (2023).
+Ihab S. Mohamed, Junhong Xu, Gaurav S Sukhatme, Lantao Liu "Towards Efficient MPPI Trajectory Generation with Unscented Guidance: U-MPPI Control Strategy." arXiv preprint arXiv:2306.12369 (2023).
 
 Paper: https://arxiv.org/abs/2306.12369
 
