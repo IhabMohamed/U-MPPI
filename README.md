@@ -10,16 +10,15 @@ Such a control strategy leverages the UT to propagate not only the mean but also
 
 Ihab S. Mohamed, Junhong Xu, Gaurav S Sukhatme, Lantao Liu "Towards Efficient MPPI Trajectory Generation with Unscented Guidance: U-MPPI Control Strategy." arXiv preprint arXiv:2306.12369 (2023).
 
-Paper: https://arxiv.org/abs/2306.12369
+Paper: https://arxiv.org/abs/2306.12369 OR https://ieeexplore.ieee.org/abstract/document/10824881
 
 Bibtex:
 ```
-@article{mohamed2023towards,
-  title={Towards Efficient MPPI Trajectory Generation with Unscented Guidance: U-MPPI Control Strategy},
-  author={Mohamed, Ihab S and Xu, Junhong and Sukhatme, Gaurav and Liu, Lantao},
-  journal={arXiv e-prints},
-  pages={arXiv--2306},
-  year={2023}
+@article{mohamed2025towards,
+  title={Towards efficient MPPI trajectory generation with unscented guidance: U-MPPI control strategy},
+  author={Mohamed, Ihab S and Xu, Junhong and Sukhatme, Gaurav S and Liu, Lantao},
+  journal={IEEE Transactions on Robotics},
+  year={2025},
 }
 ```
 
